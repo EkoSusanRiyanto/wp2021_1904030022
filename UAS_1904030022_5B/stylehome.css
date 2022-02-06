@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,100&display=swap');
+
+body {
+background-color: #f6fafa;
+font-family:'Poppins', sans-serif; 
+color: #000000;
+font-size: 14px;
+
+}
+
+.form-control {
+font-size: 14px;
+}
+
+@media screen and (min-width: 994px){
+.form-control {
+  width: 350px;
+}
+}
+  
+@media screen and (min-width: 994px){
+  .form-control {
+    text-align: center;
+  }
+}  
